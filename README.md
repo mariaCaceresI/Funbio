@@ -25,7 +25,21 @@
         ROL: Diseño y Electronica
                         - Se encarga de realizar los circuitos electronicos del prototipo
                         - Se asegura de que los sensores funcionen adecuadamente
+
+
+**INTEGRANTE 03**
+!(https://github.com/mariaCaceresI/Funbio/blob/286f4a548d1b3c51ae245b476b9ae03ce89ea747/Imagenes/WhatsApp%20Image%202025-08-20%20at%205.40.10%20PM.jpeg)
+
+        NOMBRE: Amira Aguilar Cahuana
+        EDAD: 18 años
+        PASATIEMPO: Leer y me interesa el área de Biomecanica y Rehabilitación e Ingenieria de Tejidos
+        ROL: Gestor de materiales y logistica
+                        - Encargada de conseguir los materiales requeridos para el proyecto
+                        - Corroborar la seguridad del equipo 
+
+
                         
+
 
 
 
