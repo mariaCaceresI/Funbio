@@ -1,1 +1,1 @@
-Imagenes/Trabajo funbio.png
+"Caratula"(Imagenes/Trabajo%20funbio.png)
