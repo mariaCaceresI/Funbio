@@ -2,7 +2,7 @@
         Grupo 01, de estudiantes de Ingeniería Biomédica PUCP-UPCH
     
   **INTEGRANTES DEL GRUPO**
-
+![Foto grupal](
   
   **INTEGRANTE 01:**
 
@@ -57,16 +57,26 @@
                 NOMBRE: Rodrigo Alessandro Benitez Navarro
                 EDAD: 18 años
                 PASATIEMPO: Jugar tennis y mi interes de Ingeniería Biomedica es Ingeniería de tejidos
-                Rol: Programación y circuitos
+                ROL: Programación y circuitos
                         - Encargado de el proceso de codigo necesario para el proyecto. 
 
 
 **INTEGRANTE 06**
 
-![Integrante 6](
+![Integrante 6](https://github.com/mariaCaceresI/Funbio/blob/c6f16842383a9d6bbe9d610338ea95ab69842393/Imagenes/677cbd5f-246b-4bf9-b787-a7efa5dc9603.jpg)
+
+        NOMBRE: Raí Walter Apesteguia
+        EDAD: 18 años
+        PASATIEMPO: Jugar Futbol y mi interes en el área de Ingeniería Biomedica es Señales e Imagenes
+        ROL: Programación y modelado 3D
+                - Encargado de verificar el diseño del prototipo
+
+
+                
 
 
                         
+
 
 
 
