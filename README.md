@@ -2,7 +2,7 @@
         Grupo 01, de estudiantes de Ingeniería Biomédica PUCP-UPCH
     
   **INTEGRANTES DEL GRUPO**
-![Foto grupal](
+![Foto grupal](https://github.com/mariaCaceresI/Funbio/blob/a3faf8bc43175b57df03b61a2b888478b332b407/Imagenes/6501df51-3a99-4ca0-a6cc-f6a17df2314f.jpg)
   
   **INTEGRANTE 01:**
 
@@ -76,6 +76,7 @@
 
 
                         
+
 
 
 
