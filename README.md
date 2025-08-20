@@ -50,7 +50,24 @@
                         - Responsable de redactar reportes, guias y bitacoras
 
 
+**INTEGRANTES 05**
+
+![Integrante 5](https://github.com/mariaCaceresI/Funbio/blob/fcd088a306edc3f6a29a3de713f2dc8024b324a5/Imagenes/03cf21fa-5f47-434a-a46f-617dc3193cfa.jpg)
+
+                NOMBRE: Rodrigo Alessandro Benitez Navarro
+                EDAD: 18 años
+                PASATIEMPO: Jugar tennis y mi interes de Ingeniería Biomedica es Ingeniería de tejidos
+                Rol: Programación y circuitos
+                        - Encargado de el proceso de codigo necesario para el proyecto. 
+
+
+**INTEGRANTE 06**
+
+![Integrante 6](
+
+
                         
+
 
 
 
