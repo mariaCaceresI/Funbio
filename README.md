@@ -41,8 +41,17 @@
 
 **INTEGRANTE 04:**
 
+![Integrante 4](https://github.com/mariaCaceresI/Funbio/blob/837eeca832f995dba1493452e93e67b7e7d26e61/Imagenes/1d320803-5344-4b6a-8807-77bc4263988d.jpg)
+
+                NOMBRE: Indira lucel burga rios
+                EDAD: 19 años
+                PASATIEMPO: Escribir, escuchar musica, bailar y mi interes en Ingeniería biomédica es el área de tejidos y de señales                    médicas
+                ROL: Líder de comunicación
+                        - Responsable de redactar reportes, guias y bitacoras
+
 
                         
+
 
 
 
