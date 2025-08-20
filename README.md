@@ -27,8 +27,9 @@
                         - Se asegura de que los sensores funcionen adecuadamente
 
 
-**INTEGRANTE 03**
-!(https://github.com/mariaCaceresI/Funbio/blob/286f4a548d1b3c51ae245b476b9ae03ce89ea747/Imagenes/WhatsApp%20Image%202025-08-20%20at%205.40.10%20PM.jpeg)
+**INTEGRANTE 03:**
+
+![Integrante 3](https://github.com/mariaCaceresI/Funbio/blob/9065d5cbbea22f476034c20bdb774e5bd9642a36/Imagenes/WhatsApp%20Image%202025-08-20%20at%205.40.10%20PM.jpeg)
 
         NOMBRE: Amira Aguilar Cahuana
         EDAD: 18 años
@@ -38,7 +39,11 @@
                         - Corroborar la seguridad del equipo 
 
 
+**INTEGRANTE 04:**
+
+
                         
+
 
 
 
