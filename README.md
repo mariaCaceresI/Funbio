@@ -1,1 +1,2 @@
-"Caratula"(Imagenes/Trabajo%20funbio.png)
+![Texto alternativo](Imagenes/Trabajo%20funbio.png)
+
