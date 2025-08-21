@@ -2,14 +2,14 @@
 
 ![Caratula de funbio](Imagenes/Trabajo%20funbio.png)
 
-# DESCRIPCIÓN DEL GRUPO
+# 🎓DESCRIPCIÓN DEL GRUPO
 Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del horario B401 del curso "Fundamentos de Biodiseño". Hemos creado este repositorio para poder compartir el proyecto desarrollado a lo largo del 
 curso, con este proyecto buscamos mejorar la calidad de vida de las personas y lograr un avance en nuestro país en cuanto a la calidad de vida para personas con alguna condición médica. 
 
  # **INTEGRANTES DEL GRUPO**
 ![Foto grupal](https://github.com/mariaCaceresI/Funbio/blob/a3faf8bc43175b57df03b61a2b888478b332b407/Imagenes/6501df51-3a99-4ca0-a6cc-f6a17df2314f.jpg)
   
-# DESCRIPCIÓN DE MIEMBROS DEL GRUPO
+# 🧑‍🤝‍🧑DESCRIPCIÓN DE MIEMBROS DEL GRUPO
 
 **1.) Raí Walter Apesteguia Ramirez**
 
@@ -113,6 +113,7 @@ Esperamos que la visita por nuestro repositorio haya sido inspiradora para todo 
 
 
                         
+
 
 
 
